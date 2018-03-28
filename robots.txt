@@ -11,3 +11,5 @@ Disallow:
 Disallow: /cgi-bin/
 Disallow: /buttons/
 Disallow: /checkouts/
+
+adfa
